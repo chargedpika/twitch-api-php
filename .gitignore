@@ -1,6 +1,5 @@
 phpunit.xml
 composer.phar
-composer-test.lock
 vendor/
 .idea
 .DS_STORE
